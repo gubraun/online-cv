@@ -46,34 +46,22 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A self-motivated, resourceful and versatile engineer with more than 20 years of experience
-      in development, technical sales and support of software for enterprise-size development
-      organizations. Worked on code generation, simulation, testing and application security for
-      embedded and enterprise software. A customer advocate who can turn technical challenges
+      A self-motivated, resourceful and versatile field engineer with more than 20 years
+      of experience in development, technical sales and support of software for developers.
+      Worked on code generation, simulation, testing and application security for embedded
+      and enterprise software. A strong customer advocate turning technical challenges
       into business outcomes.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Diplom-Ingenieur in Electrical Engineering
+      university: Aachen University of Technology (RWTH Aachen)
+      time: 1994 - 2000
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Accomplished with grade 1.6 (1.0 is highest, 4.0 is lowest)
+    - degree: 
+      university: University of Surrey
+      time: 1999
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Semester abroad in Electroic Engineering
 experiences:
     - role: Lead Developer
       time: 2015 - Present
