@@ -63,24 +63,32 @@ education:
       details: |
         Semester abroad in Electroic Engineering
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Sales Engineer / Technical Account Manager
+      time: 2016 - Present
+      company: Synopsys, Inc.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Pre-sales and post-sales for strategic enterprise accounts in Synopsys'
+        Software Integrity Group, covering application security and quality
+        solutions, including SAST (Coverity), DAST, IAST, fuzz testing and software 
+        composition analysis (Black Duck).
+          - End-to-end support for enterprise deployments with 1000+ developers at
+            difference stages of maturity, from pre-sales to enterprise-scale adoption.
+          - Technical account owner for some of the largest clients in EMEA (SAP,
+            Daimler, Bosch)
+          - Collaborated with product management and engineering teams to drive customer
+            requirements into product solutions
+    - role: Field Application Engineering Manager
+      time: 2010 - 2016
+      company: Synopsys, Inc.
+      details: |
+        Managed small team of field applications engineers in EMEA while 
+        technical account managers for few key accounts.
+          - Developed each team member into highly visible key contributor with global
+            influence
+          - Custom seminars
+    - role: Princial Field Applications Engineer
+      time: 2007 - 2010
+      company: CoWare, Inc.
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -89,9 +97,9 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Sr. R&D Manager
+      time: 2006 - 2007
+      company: CoWare, Inc.
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -99,7 +107,26 @@ experiences:
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
           - Bullet point
+          - Bullet point     
+    - role: Principal Engineer
+      time: 2006 - 2007
+      company: CoWare, Inc.
+      details: |
+        Key architect for C compiler generator product as part of the LISATek
+        ASIP design product. Productization of technology transferred from
+        University.
           - Bullet point
+          - Bullet point  
+    - role: Research Assistant
+      time: 2000 - 20003
+      company: Aachen Univerity of Technology
+      details: |
+        Research in retargetable tools for embedded processors and technology
+        transfer to spin-off LISATek, Inc., acquired by CoWare in 2003.
+          - Developed compiler backend, memory configurator and documentation
+            generation from architecture descriptions in LISA language
+          - Published numerous conference papers and an IEEE journal article
+            and co-authored Best Paper Award at Design Automation Conference
 projects:
     title: Projects
     intro: >
