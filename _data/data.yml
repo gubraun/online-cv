@@ -180,23 +180,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Application Security Testing (Coverity, Black Duck, Seeker, Defensics)
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: CI/CD (Jenkins, Azure DevOps, GitHub Actions)
         level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+        
+      - name: C/C++
         level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+        
+      -name: Python
+        level: 20%
+        
+      - name: Embedded architectures (ARM, diverse DSPs)
+        level: 98%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
