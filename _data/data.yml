@@ -148,7 +148,7 @@ projects:
 
     assignments:
       - title: SunnyCollect
-        link: "#sunnycollect"
+        link: "https://github.com/gubraun/sunnycollect"
         tagline: "Collects data from an SMA Sunny WebBox periodically and stores it in an Influx database"
 
       - title: Math Trainer
