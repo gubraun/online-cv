@@ -175,7 +175,7 @@ publications:
         authors: Gunnar Braun
         conference: "Manage IT, June 2020"
         
-      - title: "A universal technique for fast and flexible instruction-set architecture simulation"
+      - title: "A Universal Technique for Fast and Flexible Instruction-set Architecture Simulation"
         link: "https://dl.acm.org/doi/10.1145/513918.513927"
         authors: A. Nohl, G. Braun, O. Schliebusch, R. Leupers, H. Meyr, A. Hoffmann
         conference: "Design Automation Conference, June 2002"
