@@ -158,24 +158,22 @@ projects:
 publications:
     title: Publications
     intro: |
-      Single-purpose tools 
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Selected recent publications.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Strategien und Technologien für die Containersicherheit"
+        link: "https://www.dev-insider.de/strategien-und-technologien-fuer-die-containersicherheit-a-965103/"
+        authors: Gunnar Braun
+        conference: "Dev-Insider, Oct. 2020"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Managed Security Testing als Risikomanagement-Strategie"
+        link: "https://www.security-insider.de/managed-security-testing-als-risikomanagement-strategie-a-984195/"
+        authors: Gunnar Braun
+        conference: "Security-Insider, Nov. 2020"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "BOM: Open-Source-Risiken (immer) im Auge behalten"
+        link: "https://ap-verlag.de/bom-open-source-risiken-immer-im-auge-behalten/61404/"
+        authors: Gunnar Braun
+        conference: "Manage IT, June 2020"
 
 skills:
     title: Skills &amp; Proficiency
