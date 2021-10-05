@@ -148,11 +148,11 @@ projects:
 
     assignments:
       - title: SunnyCollect
-        link: "github.com/gubraun/sunnycollect"
+        link: "#sunnycollect"
         tagline: "Collects data from an SMA Sunny WebBox periodically and stores it in an Influx database"
 
       - title: Math Trainer
-        link: "github.com/gubraun/mathtrainer"
+        link: "https://github.com/gubraun/mathtrainer"
         tagline: "My first steps in Angular to replace a stone-age Windows XP program used in my daughter's school (flagged as enemy-of-the-state by any AV program)"
 
 publications:
