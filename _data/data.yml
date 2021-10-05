@@ -197,18 +197,21 @@ skills:
       - name: CI/CD
         level: 98%
         
+      - name: Docker
+        level: 80%
+
+      - name: Debugging
+        level: 90%
+        
+      - name: MISRA
+        level: 70%
+        
       - name: C/C++
         level: 95%
         
       - name: Python
         level: 20%
 
-      - name: MISRA
-        level: 70%
-        
-      - name: Docker
-        level: 80%
-        
       - name: Embedded Systems
         level: 90%
         
