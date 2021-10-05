@@ -142,18 +142,18 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Single-purpose utilities 
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      As an applications engineer, I don't do much software development, other than
+      single-purpose solutions to overcome the problem at hand, or to educate myself
+      on new technology. Here are two examples, one for each :-)
+
     assignments:
       - title: SunnyCollect
         link: "github.com/gubraun/sunnycollect"
         tagline: "Collects data from an SMA Sunny WebBox periodically and stores it in an Influx database"
 
-      - title: Mathtraining
+      - title: Math Trainer
         link: "github.com/gubraun/mathtrainer"
-        tagline: "My first steps an Angular to replace a stone-age Windows XP program used in my daughter's school (flagged as enemy-of-the-state by an AV program)"
+        tagline: "My first steps in Angular to replace a stone-age Windows XP program used in my daughter's school (flagged as enemy-of-the-state by any AV program)"
 
 publications:
     title: Publications
