@@ -79,48 +79,56 @@ experiences:
           - Customer advocate to product management and engineering teams to drive
             customer requirements into product solutions.
           - Acquired deep understanding of appsec culture and tools and CISSP, CSSLP
-            and CEH certifications
+            and CEH certifications.
     - role: Manager, Field Application Engineering
       time: 2010 - 2016
       company: Synopsys, Inc.
       details: |
         Managed small team of high-profile field applications engineers for Synopsys'
-        Virtual Prototyping solutions in the EMEA region.
-        technical account managers for few key accounts.
+        Virtual Prototyping solutions in the EMEA region. Technical account manager for
+        Freescale (now NXP) and Siemens (both in TOP10 revenue accounts).
           - Developed each team member into highly visible key contributor with global
             influence
-          - Custom seminars
+          - Helped entering and expanding in automotive market through supply-chain
+            plays with NXP, Infineon, Bosch and Continental.
+          - Initiative to increase embedded software know-how in world-wide field
+            application engineering organization to optimize and expedite growth
+            of virtual prototyping business
+          - Supported industry conferences and customer seminars to evangelize virtual
+            prototyping concepts
     - role: Principal Field Applications Engineer
       time: 2007 - 2010
       company: CoWare, Inc.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+         Pre- and post-sales for CoWare's system-level design products, including virtual
+         prototypes for software development, Sytem-on-Chip architecture design, programmable
+         hardware accelerator design.
+          - Evangelizing technology along the hardware/software boundaries of embedded systems
+            and complex technical sales involving multiple customer groups
+          - Field architect and SME for processor design product, involved in almost every
+            engagement in North America and EMEA
+          - FAE of the Year aware in 2008
     - role: Senior R&D Manager
       time: 2006 - 2007
       company: CoWare, Inc.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point     
+        Managed development team for processor design product (Germany and India). Responsible
+        for product releases from planning to post-sales support.
     - role: Principal Engineer
       time: 2003 - 2006
       company: CoWare, Inc.
       details: |
         Key architect for C compiler generator product as part of the LISATek
-        ASIP design product. Productization of technology transferred from
+        processor design product. Productization of technology transferred from
         University.
-          - Bullet point
-          - Bullet point  
+         - Integrated technology from 3rd party compiler vendor and Univerity project 
+           for automatic C compiler generation from processor architecture descriptions
+           in LISA language
+         - SME for compiler technology, leading almost every customer engagement on new
+           C compiler product
+         - Developed models for numerous proprietary instruction-set processors in
+           context of pre- and post-sales engagements
+         - Principal inventor of three patents and co-inventor of several others
     - role: Research Assistant
       time: 2000 - 2003
       company: Aachen Univerity of Technology
@@ -195,6 +203,9 @@ skills:
         
       - name: Python
         level: 20%
+
+      - name: MISRA, CERT, AUTOSAR, A-SPICE, ISO 26262
+        level: 50%
         
       - name: Embedded architectures (ARM, diverse DSPs)
         level: 98%
