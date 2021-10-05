@@ -185,10 +185,16 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Application Security Testing (Coverity, Black Duck, Seeker, Defensics)
+      - name: SAST
         level: 98%
-
-      - name: CI/CD (Jenkins, Azure DevOps, GitHub Actions)
+        
+      - name: SCA
+        level: 90%
+        
+      - name: IAST
+        level: 85%
+        
+      - name: CI/CD
         level: 98%
         
       - name: C/C++
@@ -197,11 +203,8 @@ skills:
       - name: Python
         level: 20%
 
-      - name: MISRA, CERT, AUTOSAR, A-SPICE, ISO 26262
-        level: 50%
-        
-      - name: Embedded architectures (ARM, diverse DSPs)
-        level: 98%
-
+      - name: MISRA
+        level: 70%
+       
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
