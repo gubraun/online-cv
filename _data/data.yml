@@ -194,6 +194,9 @@ skills:
       - name: IAST
         level: 85%
         
+      - name: DevSecOps  
+        level: 85%
+        
       - name: CI/CD
         level: 98%
         
