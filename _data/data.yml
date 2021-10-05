@@ -158,24 +158,25 @@ projects:
 publications:
     title: Publications
     intro: |
-      Selected recent publications.
+      A few selected publications. The first three are application security related magazine articles,
+      and the last one is a Best Paper Award from the largest conference in the EDA industry.
     papers:
-      - title: "Strategien und Technologien für die Containersicherheit"
-        link: "https://www.dev-insider.de/strategien-und-technologien-fuer-die-containersicherheit-a-965103/"
-        authors: Gunnar Braun
-        conference: "Dev-Insider, Oct. 2020"
-
       - title: "Managed Security Testing als Risikomanagement-Strategie"
         link: "https://www.security-insider.de/managed-security-testing-als-risikomanagement-strategie-a-984195/"
-        authors: Gunnar Braun
+        authors: G. Braun
         conference: "Security-Insider, Nov. 2020"
+        
+      - title: "Strategien und Technologien für die Containersicherheit"
+        link: "https://www.dev-insider.de/strategien-und-technologien-fuer-die-containersicherheit-a-965103/"
+        authors: G. Braun
+        conference: "Dev-Insider, Oct. 2020"
 
       - title: "BOM: Open-Source-Risiken (immer) im Auge behalten"
         link: "https://ap-verlag.de/bom-open-source-risiken-immer-im-auge-behalten/61404/"
-        authors: Gunnar Braun
+        authors: G. Braun
         conference: "Manage IT, June 2020"
         
-      - title: "A Universal Technique for Fast and Flexible Instruction-set Architecture Simulation"
+      - title: "A Universal Technique for Fast and Flexible Instruction-Set Architecture Simulation"
         link: "https://dl.acm.org/doi/10.1145/513918.513927"
         authors: A. Nohl, G. Braun, O. Schliebusch, R. Leupers, H. Meyr, A. Hoffmann
         conference: "Design Automation Conference, June 2002"
