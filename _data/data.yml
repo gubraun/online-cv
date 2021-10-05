@@ -49,8 +49,8 @@ career-profile:
       Self-motivated, resourceful and versatile field engineer with more than 20 years
       of experience in development, technical sales and support of software for developers.
       Worked on code generation, simulation, testing and application security for embedded
-      and enterprise software. Strong customer advocate turning technical challenges
-      into business outcomes.
+      and enterprise software. Strong customer advocate, solving technical challenges to 
+      achieve business outcomes.
 education:
     - degree: Diplom-Ingenieur in Electrical Engineering
       university: Aachen University of Technology
@@ -73,24 +73,24 @@ experiences:
         capture through deployment planning to development of stop-gap solutions.
         Covering wide range of xAST solutions, including Coverity and Black Duck.
           - Technical account owner for EMEA strategic key accounts (SAP, Daimler,
-            Bosch) contributing to continuous revenue growth over last 5 years.
+            Bosch) contributing to continuous revenue growth over last 5 years
           - End-to-end support for enterprise deployments with 1000+ developers at
-            difference stages of maturity, from pre-sales to enterprise-scale adoption.
+            difference stages of maturity, from pre-sales to enterprise-scale adoption
           - Customer advocate to product management and engineering teams to drive
-            customer requirements into product solutions.
+            customer requirements into product solutions
           - Acquired deep understanding of appsec culture and tools and CISSP, CSSLP
-            and CEH certifications.
+            and CEH certifications
     - role: Manager, Field Application Engineering
       time: 2010 - 2016
       company: Synopsys, Inc.
       details: |
         Managed small team of high-profile field applications engineers for Synopsys'
-        Virtual Prototyping solutions in the EMEA region. Technical account manager for
+        Virtual Prototyping solutions in the EMEA region. Technical Account Manager for
         Freescale (now NXP) and Siemens (both in TOP10 revenue accounts).
           - Developed each team member into highly visible key contributor with global
             influence
-          - Helped entering and expanding in automotive market through supply-chain
-            plays with NXP, Infineon, Bosch and Continental.
+          - Helped creating and expanding automotive market footprint through supply-chain
+            plays with NXP, Infineon, Bosch and Continental
           - Initiative to increase embedded software know-how in world-wide field
             application engineering organization to optimize and expedite growth
             of virtual prototyping business
@@ -98,16 +98,16 @@ experiences:
             prototyping concepts
     - role: Principal Field Applications Engineer
       time: 2007 - 2010
-      company: CoWare, Inc.
+      company: CoWare, Inc. (acquired by Synopsys in 2010)
       details: |
          Pre- and post-sales for CoWare's system-level design products, including virtual
-         prototypes for software development, Sytem-on-Chip architecture design, programmable
-         hardware accelerator design.
+         prototypes for software development, Sytem-on-Chip architecture design and programmable
+         hardware accelerator design solutions.
           - Evangelizing technology along the hardware/software boundaries of embedded systems
-            and complex technical sales involving multiple customer groups
-          - Field architect and SME for processor design product, involved in almost every
+            and navigating complex technical sales involving multiple customer groups
+          - Field architect and SME for processor design product, supported almost every
             engagement in North America and EMEA
-          - FAE of the Year aware in 2008
+          - FAE of the Year award in 2008
     - role: Senior R&D Manager
       time: 2006 - 2007
       company: CoWare, Inc.
@@ -118,8 +118,8 @@ experiences:
       time: 2003 - 2006
       company: CoWare, Inc.
       details: |
-        Key architect for C compiler generator product as part of the LISATek
-        processor design product. Productization of technology transferred from
+        Principal architect for C compiler generator product as part of the LISATek
+        processor design product. Responsible for productization of technology transferred from
         University.
          - Integrated technology from 3rd party compiler vendor and Univerity project 
            for automatic C compiler generation from processor architecture descriptions
@@ -128,48 +128,37 @@ experiences:
            C compiler product
          - Developed models for numerous proprietary instruction-set processors in
            context of pre- and post-sales engagements
-         - Principal inventor of three patents and co-inventor of several others
+         - Filed three patents as principal inventor and two as co-inventor
     - role: Research Assistant
       time: 2000 - 2003
-      company: Aachen Univerity of Technology
+      company: Aachen University of Technology
       details: |
         Research in retargetable tools for embedded processors and technology
         transfer to spin-off LISATek, Inc., acquired by CoWare in 2003.
           - Developed compiler backend, memory configurator and documentation
             generation from architecture descriptions in LISA language
-          - Published numerous conference papers and an IEEE journal article
+          - Published numerous conference papers and an IEEE journal paper
             and co-authored Best Paper Award at Design Automation Conference
 projects:
     title: Projects
     intro: >
+      Single-purpose utilities 
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: SunnyCollect
+        link: "github.com/gubraun/sunnycollect"
+        tagline: "Collects data from an SMA Sunny WebBox periodically and stores it in an Influx database"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Mathtraining
+        link: "github.com/gubraun/mathtrainer"
+        tagline: "My first steps an Angular to replace a stone-age Windows XP program used in my daughter's school (flagged as enemy-of-the-state by an AV program)"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
+      Single-purpose tools 
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
