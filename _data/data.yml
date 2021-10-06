@@ -49,8 +49,8 @@ career-profile:
       Self-motivated, resourceful and versatile field engineer with more than 20 years
       of experience in development, technical sales and support of software for developers.
       Worked on code generation, simulation, testing and application security for embedded
-      and enterprise software. Strong customer advocate, solving technical challenges to 
-      achieve business outcomes.
+      and enterprise software. Strong customer advocate, excited about solving technical
+      challenges to achieve business outcomes.
 education:
     - degree: Diplom-Ingenieur in Electrical Engineering
       university: Aachen University of Technology
@@ -69,24 +69,24 @@ experiences:
       details: |
         Pre-sales and post-sales for strategic enterprise accounts in Synopsys'
         Software Integrity Group (SIG), covering application security and quality
-        solutions for developers and security engineer. Anything from use case
+        solutions for developers and security engineers. Anything from use case
         capture through deployment planning to development of stop-gap solutions.
         Covering wide range of xAST solutions, including Coverity and Black Duck.
           - Technical account owner for EMEA strategic key accounts (SAP, Daimler,
             Bosch) contributing to continuous revenue growth over last 5 years
           - End-to-end support for enterprise deployments with 1000+ developers at
-            difference stages of maturity, from pre-sales to enterprise-scale adoption
+            different stages of maturity, from pre-sales to enterprise-scale adoption
           - Customer advocate to product management and engineering teams to drive
-            customer requirements into product solutions
-          - Acquired deep understanding of appsec culture and tools and CISSP, CSSLP
+            customer requirements into productive solutions
+          - Thorough understanding of appsec culture and tools and CISSP, CSSLP
             and CEH certifications
-    - role: Manager, Field Application Engineering
+    - role: Manager, Field Applications Engineering
       time: 2010 - 2016
       company: Synopsys, Inc.
       details: |
         Managed small team of high-profile field applications engineers for Synopsys'
         Virtual Prototyping solutions in the EMEA region. Technical Account Manager for
-        Freescale (now NXP) and Siemens (both in TOP10 revenue accounts).
+        Freescale (now NXP) and Siemens (both in TOP10 revenue accounts for BU).
           - Developed each team member into highly visible key contributor with global
             influence
           - Helped creating and expanding automotive market footprint through supply-chain
@@ -198,28 +198,28 @@ skills:
         level: 85%
         
       - name: CI/CD
-        level: 98%
-        
-      - name: Docker
-        level: 80%
-
-      - name: Debugging
-        level: 90%
-        
-      - name: MISRA
-        level: 70%
-        
-      - name: C/C++
         level: 95%
         
-      - name: Python
-        level: 20%
+      - name: Docker
+        level: 85%
 
+      - name: Debugging
+        level: 98%
+        
       - name: Embedded Systems
         level: 90%
         
       - name: Linux
-        level: 90%  
+        level: 98%  
+        
+      - name: C/C++
+        level: 95%
+
+      - name: MISRA
+        level: 85%
+        
+      - name: Python
+        level: 50%
         
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
