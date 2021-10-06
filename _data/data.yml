@@ -186,38 +186,27 @@ skills:
 
     toolset:
       - name: SAST
-        level: 98%
-        
-      - name: SCA
-        level: 90%
-        
-      - name: IAST
-        level: 80%
-        
-      - name: DevSecOps  
-        level: 85%
-        
-      - name: CI/CD
         level: 95%
-        
-      - name: Docker
-        level: 85%
-
       - name: Debugging
-        level: 98%
-        
-      - name: Embedded Systems
-        level: 90%
-        
-      - name: Linux
-        level: 98%  
-        
-      - name: C/C++
         level: 95%
-
+      - name: Linux
+        level: 95% 
+      - name: CI/CD
+        level: 90%
+      - name: C/C++
+        level: 90%      
+      - name: SCA
+        level: 80%
+      - name: Embedded Systems
+        level: 80%       
+      - name: DevSecOps  
+        level: 70%
+      - name: IAST
+        level: 70%
+      - name: Docker
+        level: 70%
       - name: MISRA
-        level: 85%
-        
+        level: 60%    
       - name: Python
         level: 50%
         
