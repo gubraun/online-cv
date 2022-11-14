@@ -15,34 +15,38 @@ sidebar:
     # Sidebar links
     email: gunnar.braun@gmx.de
     phone: +49 151 55066977
+    #timezone: America/Cancun Timezone
+    #citizenship:
     website: gubraun.me #do not add http://
     linkedin: gubraun
     xing: Gunnar_Braun2
     github: gubraun
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
     twitter: '@GunnarBraun'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    #pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: German
-        level: Native
+      title: Languages
+      info:
+        - idiom: German
+          level: Native
 
-      - idiom: English
-        level: Professional
-
+        - idiom: English
+          level: Professional
     interests:
-      - item: Trailrunning
-        link:
-
-      - item: Glider flying
-        link:
-
-      - item: IoT
-        link:
+      title: Interests
+      info:
+        - item: Trailrunning
+          link:
+        - item: Glider flying
+          link:
+        - item: IoT
+          link:
 
 career-profile:
     title: Career Profile
@@ -52,94 +56,101 @@ career-profile:
       Worked on code generation, simulation, testing and application security for embedded
       and enterprise software. Strong customer advocate, excited about solving technical
       challenges to achieve business outcomes.
+
 education:
-    - degree: Diplom-Ingenieur in Electrical Engineering
-      university: Aachen University of Technology
-      time: 1994 - 2000
-      details: |
-        Accomplished with grade 1.6 (1.0 is highest, 4.0 is lowest)
-    - degree: 
-      university: University of Surrey
-      time: 1999
-      details: |
-        Semester abroad in Electronic Engineering
+    title: Education
+    info:
+      - degree: Diplom-Ingenieur in Electrical Engineering
+        university: Aachen University of Technology
+        time: 1994 - 2000
+        details: |
+          Accomplished with grade 1.6 (1.0 is highest, 4.0 is lowest)
+      - degree: 
+        university: University of Surrey
+        time: 1999
+        details: |
+          Semester abroad in Electronic Engineering
+
 experiences:
-    - role: Sales Engineer / Technical Account Manager
-      time: 2016 - Present
-      company: Synopsys, Inc.
-      details: |
-        Pre-sales and post-sales for strategic enterprise accounts in Synopsys'
-        Software Integrity Group (SIG), covering application security and quality
-        solutions for developers and security engineers. Anything from use case
-        capture through deployment planning to development of stop-gap solutions.
-        Covering wide range of xAST solutions, including Coverity and Black Duck.
-          - Technical account owner for EMEA strategic key accounts (SAP, Daimler,
-            Bosch) contributing to continuous revenue growth over last 5 years
-          - End-to-end support for enterprise deployments with 1000+ developers at
-            different stages of maturity, from pre-sales to enterprise-scale adoption
-          - Customer advocate to product management and engineering teams to drive
-            customer requirements into productive solutions
-          - Thorough understanding of appsec culture and tools and holding CISSP, CSSLP
-            and CEH certifications
-    - role: Manager, Field Applications Engineering
-      time: 2010 - 2016
-      company: Synopsys, Inc.
-      details: |
-        Managed small team of high-profile field applications engineers for Synopsys'
-        Virtual Prototyping solutions in the EMEA region. Technical Account Manager for
-        Freescale (now NXP) and Siemens (both in TOP10 revenue accounts for BU).
-          - Developed each team member into highly visible key contributor with global
-            influence
-          - Helped creating and expanding automotive market footprint through supply-chain
-            plays with NXP, Infineon, Bosch and Continental
-          - Initiative to increase embedded software know-how in world-wide field
-            application engineering organization to optimize and expedite growth
-            of virtual prototyping business
-          - Supported industry conferences and customer seminars to evangelize virtual
-            prototyping concepts
-    - role: Principal Field Applications Engineer
-      time: 2007 - 2010
-      company: CoWare, Inc. (acquired by Synopsys in 2010)
-      details: |
-         Pre- and post-sales for CoWare's system-level design products, including virtual
-         prototypes for software development, Sytem-on-Chip architecture design and programmable
-         hardware accelerator design solutions.
-          - Evangelizing technology along the hardware/software boundaries of embedded systems
-            and navigating complex technical sales involving multiple customer groups
-          - Field architect and SME for processor design product, supported almost every
-            engagement in North America and EMEA
-          - FAE of the Year award in 2008
-    - role: Senior R&D Manager
-      time: 2006 - 2007
-      company: CoWare, Inc.
-      details: |
-        Managed development team for processor design product (Germany and India). Responsible
-        for product releases from planning to post-sales support.
-    - role: Principal Engineer
-      time: 2003 - 2006
-      company: CoWare, Inc.
-      details: |
-        Principal architect for C compiler generator product as part of the LISATek
-        processor design product. Responsible for productization of technology transferred from
-        University.
-         - Integrated technology from 3rd party compiler vendor and Univerity project 
-           for automatic C compiler generation from processor architecture descriptions
-           in LISA language
-         - Subject matter expert for compiler technology, leading almost every customer
-           engagement on new C compiler product
-         - Developed models for numerous proprietary instruction-set processors in
-           context of pre- and post-sales engagements
-         - Filed three patents as principal inventor and two as co-inventor
-    - role: Research Assistant
-      time: 2000 - 2003
-      company: Aachen University of Technology
-      details: |
-        Research in retargetable tools for embedded processors and technology
-        transfer to spin-off LISATek, Inc., acquired by CoWare in 2003.
-          - Developed compiler backend, memory configurator and documentation
-            generation from architecture descriptions in LISA language
-          - Published numerous conference papers and an IEEE journal paper
-            and co-authored Best Paper Award at Design Automation Conference
+    title: Experiences
+    info:
+      - role: Sales Engineer / Technical Account Manager
+        time: 2016 - Present
+        company: Synopsys, Inc.
+        details: |
+          Pre-sales and post-sales for strategic enterprise accounts in Synopsys'
+          Software Integrity Group (SIG), covering application security and quality
+          solutions for developers and security engineers. Anything from use case
+          capture through deployment planning to development of stop-gap solutions.
+          Covering wide range of xAST solutions, including Coverity and Black Duck.
+            - Technical account owner for EMEA strategic key accounts (SAP, Daimler,
+              Bosch) contributing to continuous revenue growth over last 5 years
+            - End-to-end support for enterprise deployments with 1000+ developers at
+              different stages of maturity, from pre-sales to enterprise-scale adoption
+            - Customer advocate to product management and engineering teams to drive
+              customer requirements into productive solutions
+            - Thorough understanding of appsec culture and tools and holding CISSP, CSSLP
+              and CEH certifications
+      - role: Manager, Field Applications Engineering
+        time: 2010 - 2016
+        company: Synopsys, Inc.
+        details: |
+          Managed small team of high-profile field applications engineers for Synopsys'
+          Virtual Prototyping solutions in the EMEA region. Technical Account Manager for
+          Freescale (now NXP) and Siemens (both in TOP10 revenue accounts for BU).
+            - Developed each team member into highly visible key contributor with global
+              influence
+            - Helped creating and expanding automotive market footprint through supply-chain
+              plays with NXP, Infineon, Bosch and Continental
+            - Initiative to increase embedded software know-how in world-wide field
+              application engineering organization to optimize and expedite growth
+              of virtual prototyping business
+            - Supported industry conferences and customer seminars to evangelize virtual
+              prototyping concepts
+      - role: Principal Field Applications Engineer
+        time: 2007 - 2010
+        company: CoWare, Inc. (acquired by Synopsys in 2010)
+        details: |
+          Pre- and post-sales for CoWare's system-level design products, including virtual
+          prototypes for software development, Sytem-on-Chip architecture design and programmable
+          hardware accelerator design solutions.
+            - Evangelizing technology along the hardware/software boundaries of embedded systems
+              and navigating complex technical sales involving multiple customer groups
+            - Field architect and SME for processor design product, supported almost every
+              engagement in North America and EMEA
+            - FAE of the Year award in 2008
+      - role: Senior R&D Manager
+        time: 2006 - 2007
+        company: CoWare, Inc.
+        details: |
+          Managed development team for processor design product (Germany and India). Responsible
+          for product releases from planning to post-sales support.
+      - role: Principal Engineer
+        time: 2003 - 2006
+        company: CoWare, Inc.
+        details: |
+          Principal architect for C compiler generator product as part of the LISATek
+          processor design product. Responsible for productization of technology transferred from
+          University.
+          - Integrated technology from 3rd party compiler vendor and Univerity project 
+            for automatic C compiler generation from processor architecture descriptions
+            in LISA language
+          - Subject matter expert for compiler technology, leading almost every customer
+            engagement on new C compiler product
+          - Developed models for numerous proprietary instruction-set processors in
+            context of pre- and post-sales engagements
+          - Filed three patents as principal inventor and two as co-inventor
+      - role: Research Assistant
+        time: 2000 - 2003
+        company: Aachen University of Technology
+        details: |
+          Research in retargetable tools for embedded processors and technology
+          transfer to spin-off LISATek, Inc., acquired by CoWare in 2003.
+            - Developed compiler backend, memory configurator and documentation
+              generation from architecture descriptions in LISA language
+            - Published numerous conference papers and an IEEE journal paper
+              and co-authored Best Paper Award at Design Automation Conference
+
 projects:
     title: Projects
     intro: >
@@ -188,26 +199,37 @@ skills:
     toolset:
       - name: SAST
         level: 95%
+
+      - name: SCA
+        level: 95%
+
       - name: Debugging
         level: 95%
+
       - name: Linux
         level: 95% 
+
       - name: CI/CD
         level: 90%
+
       - name: C/C++
         level: 90%      
-      - name: SCA
-        level: 80%
+
       - name: Embedded Systems
-        level: 80%       
-      - name: DevSecOps  
+        level: 80%
+
+      - name: DevSecOps
         level: 70%
+
       - name: IAST
         level: 70%
+
       - name: Docker
         level: 70%
+
       - name: MISRA
-        level: 60%    
+        level: 60%
+
       - name: Python
         level: 50%
         
