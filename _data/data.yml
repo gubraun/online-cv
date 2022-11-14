@@ -173,20 +173,35 @@ publications:
       A few selected publications. The first three are application security related magazine articles,
       and the last one is a Best Paper Award from the largest conference in the EDA industry.
     papers:
-      - title: "Managed Security Testing als Risikomanagement-Strategie"
-        link: "https://www.security-insider.de/managed-security-testing-als-risikomanagement-strategie-a-984195/"
+      - title: "Software-Sicherheit in der Fahrzeugentwicklung"
+        link: "https://www.dev-insider.de/software-sicherheit-in-der-fahrzeugentwicklung-a-e19f0d86fa16411fb218292d2be93486/"
         authors: G. Braun
-        conference: "Security-Insider, Nov. 2020"
+        conference: "Dev-Insider, Nov. 2022"
 
-      - title: "Strategien und Technologien für die Containersicherheit"
-        link: "https://www.dev-insider.de/strategien-und-technologien-fuer-die-containersicherheit-a-965103/"
+      - title: "Software auf Sicherheit testen: Unsicheren APIs auf der Spur"
+        link: "https://www.elektroniknet.de/embedded/software/unsicheren-apis-auf-der-spur.195424.html"
         authors: G. Braun
-        conference: "Dev-Insider, Oct. 2020"
+        conference: "elektroniknet.de, May 2022"
 
-      - title: "BOM: Open-Source-Risiken (immer) im Auge behalten"
-        link: "https://ap-verlag.de/bom-open-source-risiken-immer-im-auge-behalten/61404/"
+      #- title: "Angriff durchs Aquarium: Embedded Software sicher machen"
+      #  link: "https://www.elektronikpraxis.de/angriff-durchs-aquarium-embedded-software-sicher-machen-a-1105405/"
+      #  authors: G. Braun
+      #  conference: "elektroniknet.de, Mar. 2022"
+
+      - title: "Software mit Intelligenten Pipelines absichern"
+        link: "https://www.dev-insider.de/software-mit-intelligenten-pipelines-absichern-a-1082509/"
         authors: G. Braun
-        conference: "Manage IT, June 2020"
+        conference: "Dev-Insider, Jan. 2022"
+      
+      #- title: "Managed Security Testing als Risikomanagement-Strategie"
+      #  link: "https://www.security-insider.de/managed-security-testing-als-risikomanagement-strategie-a-984195/"
+      #  authors: G. Braun
+      #  conference: "Security-Insider, Nov. 2020"
+
+      #- title: "BOM: Open-Source-Risiken (immer) im Auge behalten"
+      #  link: "https://ap-verlag.de/bom-open-source-risiken-immer-im-auge-behalten/61404/"
+      #  authors: G. Braun
+      #  conference: "Manage IT, June 2020"
 
       - title: "A Universal Technique for Fast and Flexible Instruction-Set Architecture Simulation"
         link: "https://dl.acm.org/doi/10.1145/513918.513927"
