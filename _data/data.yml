@@ -65,7 +65,7 @@ education:
         time: 1994 - 2000
         details: |
           Accomplished with grade 1.6 (1.0 is highest, 4.0 is lowest)
-      - degree: 
+      - degree:
         university: University of Surrey
         time: 1999
         details: |
@@ -177,7 +177,7 @@ publications:
         link: "https://www.security-insider.de/managed-security-testing-als-risikomanagement-strategie-a-984195/"
         authors: G. Braun
         conference: "Security-Insider, Nov. 2020"
-        
+
       - title: "Strategien und Technologien für die Containersicherheit"
         link: "https://www.dev-insider.de/strategien-und-technologien-fuer-die-containersicherheit-a-965103/"
         authors: G. Braun
@@ -187,7 +187,7 @@ publications:
         link: "https://ap-verlag.de/bom-open-source-risiken-immer-im-auge-behalten/61404/"
         authors: G. Braun
         conference: "Manage IT, June 2020"
-        
+
       - title: "A Universal Technique for Fast and Flexible Instruction-Set Architecture Simulation"
         link: "https://dl.acm.org/doi/10.1145/513918.513927"
         authors: A. Nohl, G. Braun, O. Schliebusch, R. Leupers, H. Meyr, A. Hoffmann
@@ -232,6 +232,6 @@ skills:
 
       - name: Python
         level: 50%
-        
+
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
