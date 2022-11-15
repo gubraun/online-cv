@@ -212,13 +212,19 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: SAST &amp; Composition Analysis
+      - name: SAST
         level: 95%
 
-      - name: Embedded Systems &amp; C/C++
+      - name: Software Composition Analysis
         level: 95%
 
-      - name: DevOps, DevSecOps &amp; CI/CD
+      - name: Embedded Systems
+        level: 95%
+        
+      - name: C/C++
+        level: 90%
+
+      - name: DevSecOps &amp; CI/CD
         level: 90%
 
       - name: Cloud
