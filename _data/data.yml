@@ -221,17 +221,18 @@ skills:
       - name: Embedded Systems
         level: 95%
 
-      - name: C/C++
-        level: 90%
-
       - name: DevSecOps &amp; CI/CD
         level: 90%
 
-      - name: Cloud
-        level: 75%
+      - name: C/C++
+        level: 85%
 
       - name: Python
+        level: 70%
+
+      - name: Cloud
         level: 50%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
