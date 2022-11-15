@@ -215,12 +215,12 @@ skills:
       - name: SAST
         level: 95%
 
-      - name: Software Composition Analysis
+      - name: Composition Analysis
         level: 95%
 
       - name: Embedded Systems
         level: 95%
-        
+
       - name: C/C++
         level: 90%
 
