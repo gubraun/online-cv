@@ -170,10 +170,11 @@ certifications:
           end: 2025
           organization: ISC2
           credentialid: 588320
-          #credentialurl: www.github.com
-          #credentialname: Github
-          #details: |
-            #Older certification. 
+        - name: CEH
+          start: 2016
+          end: 2025
+          organization: EC-Council
+          credentialid: ECC63645926398
 
 projects:
     title: Projects
