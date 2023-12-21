@@ -161,10 +161,10 @@ certifications:
           end: 2025
           organization: ISC2
           credentialid: 588320
-          #credentialurl: www.google.com
-          #credentialname: Google
-          #details: |
-            #Details about cert. 
+          credentialurl: www.google.com
+          credentialname: Google
+          details: |
+            Details about cert. 
         - name: CSSLP
           start: 2019
           end: 2025
