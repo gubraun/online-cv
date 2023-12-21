@@ -173,6 +173,11 @@ publications:
       A few selected publications. The first three are application security related magazine articles,
       and the last one is a Best Paper Award from the largest conference in the EDA industry.
     papers:
+      - title: "Supply Chain Security: Wie viel Standard steckt in SBOMs?"
+        link: "https://www.heise.de/hintergrund/Supply-Chain-Security-Standard-in-SBOMs-9241110.html"
+        authors: G. Braun
+        conference: "iX, Sep. 2023"
+        
       - title: "Software-Sicherheit in der Fahrzeugentwicklung"
         link: "https://www.dev-insider.de/software-sicherheit-in-der-fahrzeugentwicklung-a-e19f0d86fa16411fb218292d2be93486/"
         authors: G. Braun
