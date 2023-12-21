@@ -36,7 +36,6 @@ sidebar:
       info:
         - idiom: German
           level: Native
-
         - idiom: English
           level: Professional
     interests:
@@ -44,7 +43,7 @@ sidebar:
       info:
         - item: Trailrunning
           link:
-        - item: Glider flying
+        - item: Glider Flying
           link:
         - item: Home Automation
           link:
@@ -71,8 +70,7 @@ education:
         time: 1999
         details: |
           Semester abroad in Electronic Engineering
-
-
+          
 experiences:
     title: Experiences
     info:
@@ -93,6 +91,7 @@ experiences:
               customer requirements into productive solutions
             - Thorough understanding of appsec culture and tools and holding CISSP, CSSLP
               and CEH certifications
+            - Employee Excellence Award 2022 (awarded to 0.15% of Synopsys employees)
       - role: Manager, Field Applications Engineering
         time: 2010 - 2016
         company: Synopsys, Inc.
@@ -218,7 +217,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      A few selected publications. The first three are application security related magazine articles,
+      A few selected publications. The first four are application security related magazine articles,
       and the last one is a Best Paper Award from the largest conference in the EDA industry.
     papers:
       - title: "Supply Chain Security: Wie viel Standard steckt in SBOMs?"
@@ -285,7 +284,6 @@ skills:
 
       - name: Cloud
         level: 50%
-
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
