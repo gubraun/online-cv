@@ -156,25 +156,29 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: Certified Information Systems Security Professional (CISSP)
+        - name: CISSP
           start: 2019
           end: 2025
           organization: ISC2
           credentialid: 588320
           #credentialurl: www.google.com
           #credentialname: Google
-          #details: |
-            #Details about cert. 
-        - name: Certified Secure Software Development Lifecycle Professional (CSSLP)
+          details: |
+            Certified Information Systems Security Professional
+        - name: CSSLP
           start: 2019
           end: 2025
           organization: ISC2
           credentialid: 588320
-        - name: Certified Ethincal Hacker (CEH)
+          details: |
+            Certified Secure Software Development Lifecycle Professional
+        - name: CEH
           start: 2016
           end: 2025
           organization: EC-Council
           credentialid: ECC63645926398
+          details: |
+            Certified Ethincal Hacker
 
 projects:
     title: Projects
