@@ -51,11 +51,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Self-motivated, resourceful and versatile field engineer with more than 20 years
-      of experience in development, technical sales and support of software for developers.
-      Worked on code generation, simulation, testing and application security for embedded
-      and enterprise software. Strong customer advocate, excited about solving technical
-      challenges to achieve business outcomes.
+      I am a self-motivated, resourceful and versatile field engineer with more than 20 years of
+      experience in development, technical sales and support of software for developers. I spent
+      the last 18 years in customer facing roles, mostly with strategic key customers such as SAP,
+      Mercedes-Benz, and Bosch, helping development and IT organizations on integrating application
+      security and virtualization into DevOps. I bring a unique mix of experience in embedded and
+      enterprise software development, including code generation, simulation, testing and application
+      security for embedded and enterprise software. I am a strong customer advocate, excited about
+      solving technical challenges to achieve business outcomes.
 
 education:
     title: Education
@@ -74,8 +77,24 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Technical Product Manager
+        time: 2024 - Present
+        company: Synopsys, Inc.
+        details: |
+          Technical product management for Synopsys' virtualization solutions, enabling development of safe,
+          secure and high-quality software for next-generation embedded systems, such as self-driving cars,
+          intelligent computers and other science fiction. With the shift towards software-defined products,
+          such as Software-Defined Vehicles (SDV), virtualization plays a key role in the adoption of DevOps
+          and cloud-based development of embedded software. As a Technical Product Manager, I am working
+          with various team across the organization, such as Product Management, Application Engineering (AE),
+          Business Development, and R&D. The job includes:
+            - Field AEs & sales enablement​
+            - Key customer support, together with field AEs and support AEs​
+            - Product definition and collaboration with engineering​
+            - Outbound marketing​
+            - Customer training development       
       - role: Sales Engineer / Technical Account Manager
-        time: 2016 - Present
+        time: 2016 - 2024
         company: Synopsys, Inc.
         details: |
           Pre-sales and post-sales for strategic enterprise accounts in Synopsys'
