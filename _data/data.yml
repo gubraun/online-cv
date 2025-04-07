@@ -286,23 +286,29 @@ skills:
       - name: SAST
         level: 95%
 
-      - name: Composition Analysis
+      - name: Software Composition Analysis
         level: 95%
 
       - name: Embedded Systems
         level: 95%
 
-      - name: DevSecOps &amp; CI/CD
+      - name: Dev(Sec)Ops &amp; CI/CD
         level: 90%
-
-      - name: C/C++
+        
+      - name: GitHub
         level: 85%
 
+      - name: C/C++
+        level: 80%
+
       - name: Python
-        level: 70%
+        level: 75%
+
+      - name: Virtualization
+        level: 75%
 
       - name: Cloud
-        level: 50%
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
