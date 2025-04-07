@@ -294,6 +294,9 @@ skills:
 
       - name: Dev(Sec)Ops &amp; CI/CD
         level: 90%
+
+      - name: Virtualization
+        level: 90%
         
       - name: GitHub
         level: 85%
@@ -302,9 +305,6 @@ skills:
         level: 80%
 
       - name: Python
-        level: 75%
-
-      - name: Virtualization
         level: 75%
 
       - name: Cloud
