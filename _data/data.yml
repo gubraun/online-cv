@@ -86,7 +86,7 @@ experiences:
           intelligent computers and other science fiction. With the shift towards software-defined products,
           such as Software-Defined Vehicles (SDV), virtualization plays a key role in the adoption of DevOps
           and cloud-based development of embedded software. As a Technical Product Manager, I am working
-          with various team across the organization, such as Product Management, Application Engineering (AE),
+          with various teams across the organization, such as Product Management, Application Engineering (AE),
           Business Development, and R&D. My responsibilities include:
             - Field AEs & sales enablement​
             - Key customer support, together with field AEs and support AEs​
@@ -206,10 +206,12 @@ projects:
       on a new technology. Here are two examples, one for each.
 
     assignments:
+      - title: AutoSecurite Scraper
+        link: "https://github.com/gubraun/autosecurite-scraper"
+        tagline: "Web scraper for finding driving exam dates at Belgian driving test centers and sending Telegram notifications"
       - title: SunnyCollect
         link: "https://github.com/gubraun/sunnycollect"
         tagline: "Collects data from an SMA Sunny WebBox periodically and stores it in an Influx database"
-
       - title: Math Trainer
         link: "https://github.com/gubraun/mathtrainer"
         tagline: "My first steps in Angular to replace a stone-age Windows XP program used in my daughter's school (flagged as enemy-of-the-state by any AV program)"
@@ -239,6 +241,11 @@ publications:
       A few selected publications. The first four are application security related magazine articles,
       and the last one is a Best Paper Award from the largest conference in the EDA industry.
     papers:
+      - title: "Agile Development Of Software-Defined Vehicles Using Cloud-Based Virtual Prototypes"
+        link: "https://semiengineering.com/agile-development-of-software-defined-vehicles-using-cloud-based-virtual-prototypes/"
+        authors: G.Braun, S. Williams
+        conference: "Semiconductor Engineering, Sep. 2025"
+        
       - title: "Supply Chain Security: Wie viel Standard steckt in SBOMs?"
         link: "https://www.heise.de/hintergrund/Supply-Chain-Security-Standard-in-SBOMs-9241110.html"
         authors: G. Braun
