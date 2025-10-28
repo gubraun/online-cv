@@ -238,8 +238,8 @@ projects:
 publications:
     title: Publications
     intro: |
-      A few selected publications. The first four are application security related magazine articles,
-      and the last one is a Best Paper Award from the largest conference in the EDA industry.
+      A few selected publications across the areas I have been working on over the years, including virtualization
+      of embedded systems, application security and instruction-set simulation.
     papers:
       - title: "Agile Development Of Software-Defined Vehicles Using Cloud-Based Virtual Prototypes"
         link: "https://semiengineering.com/agile-development-of-software-defined-vehicles-using-cloud-based-virtual-prototypes/"
