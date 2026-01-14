@@ -57,7 +57,7 @@ career-profile:
       Mercedes-Benz, and Bosch, helping development and IT organizations with integrating application
       security and virtualization into DevOps. I bring a unique mix of experience in embedded and
       enterprise software development, including code generation, simulation, testing and application
-      security for embedded and enterprise software. I am a strong customer advocate, excited about
+      security for embedded and enterprise software. I am a passionate customer advocate, excited about
       solving technical challenges to achieve business outcomes.
 
 education:
@@ -88,17 +88,17 @@ experiences:
           and cloud-based development of embedded software. As a Technical Product Manager, I am working
           with various teams across the organization, such as Product Management, Application Engineering (AE),
           Business Development, and R&D. My responsibilities include:
-            - Field AEs & sales enablement​
+            - Field AE & sales enablement​
             - Key customer support, together with field AEs and support AEs​
-            - Product definition and collaboration with engineering​
+            - Product roadmap definition and collaboration with engineering​
             - Outbound marketing​
             - Customer training development       
       - role: Sales Engineer / Technical Account Manager
         time: 2016 - 2024
-        company: Synopsys, Inc.
+        company: Synopsys, Inc. (now Black Duck since 2024)
         details: |
-          Pre-sales and post-sales for strategic enterprise accounts in Synopsys'
-          Software Integrity Group (SIG), covering application security and quality
+          Pre-sales and post-sales for strategic enterprise accounts in Synopsys' Software
+          Integrity Group (SIG) (now Black Duck), covering application security and quality
           solutions for developers and security engineers. Anything from use case
           capture through deployment planning to development of stop-gap solutions.
           Covering wide range of AST solutions, including Coverity and Black Duck.
@@ -131,13 +131,13 @@ experiences:
         time: 2007 - 2010
         company: CoWare, Inc. (acquired by Synopsys in 2010)
         details: |
-          Pre- and post-sales for CoWare's system-level design products, including virtual
-          prototypes for software development, Sytem-on-Chip architecture design and programmable
-          hardware accelerator design solutions.
-            - Evangelizing technology along the hardware/software boundaries of embedded systems
-              and navigating complex technical sales involving multiple customer groups
-            - Field architect and SME for processor design product, supported almost every
-              engagement in North America and EMEA
+          Pre- and post-sales for CoWare's system-level design products, including virtual prototypes
+          for software development, Sytem-on-Chip architecture design and programmable hardware accelerator
+          design solutions.
+            - Evangelizing technology along the hardware/software boundaries of embedded systems and
+              navigating complex technical sales involving multiple customer groups
+            - Field architect and subject-matter expert (SME) for processor design product, supported almost
+              every engagement in North America and EMEA
             - FAE of the Year award in 2008
       - role: Senior R&D Manager
         time: 2006 - 2007
@@ -176,7 +176,7 @@ certifications:
       list:
         - name: CISSP
           start: 2019
-          end: 2025
+          end: 2028
           organization: ISC2
           credentialid: 588320
           #credentialurl: www.google.com
@@ -185,14 +185,14 @@ certifications:
             Certified Information Systems Security Professional
         - name: CSSLP
           start: 2019
-          end: 2025
+          end: 2028
           organization: ISC2
           credentialid: 588320
           details: |
             Certified Secure Software Development Lifecycle Professional
         - name: CEH
           start: 2016
-          end: 2025
+          end: 2028
           organization: EC-Council
           credentialid: ECC63645926398
           details: |
@@ -203,16 +203,16 @@ projects:
     intro: >
       As an applications engineer, I don't do much software development, other than
       single-purpose solutions to overcome the problem at hand, or to educate myself
-      on a new technology. Here are two examples, one for each.
+      on a new technology. Here are a few examples, one for each.
 
     assignments:
-      - title: AutoSecurite Scraper
+      - title: AutoSecurite Scraper (Python)
         link: "https://github.com/gubraun/autosecurite-scraper"
         tagline: "Web scraper for finding driving exam dates at Belgian driving test centers and sending Telegram notifications"
-      - title: SunnyCollect
+      - title: SunnyCollect (JavaScript)
         link: "https://github.com/gubraun/sunnycollect"
         tagline: "Collects data from an SMA Sunny WebBox periodically and stores it in an Influx database"
-      - title: Math Trainer
+      - title: Math Trainer (JavaScript)
         link: "https://github.com/gubraun/mathtrainer"
         tagline: "My first steps in Angular to replace a stone-age Windows XP program used in my daughter's school (flagged as enemy-of-the-state by any AV program)"
 
