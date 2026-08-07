@@ -9,13 +9,13 @@ sidebar:
 
     # Profile information
     name: Gunnar Braun
-    tagline: Technical Product Manager
+    tagline: Field Security Specialist
     #avatar: me.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     avatar: GunnarBraun_sw_square_small.jpeg
 
     # Sidebar links
     email: gunnar.braun@gmx.de
-    phone: +49 151 55066977
+    phone: +49 151 53733686
     #timezone: America/Cancun Timezone
     citizenship: German
     website: gubraun.me #do not add http://
@@ -77,6 +77,13 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Field Security Specialist
+        time: 2026 - Present
+        company: GitHub
+        details: |
+          Trusted advisor helping enterprise customers adopt GitHub’s security solutions. Partnering with sales
+          and technical teams to assess needs, demonstrate business value, guide secure implementation, and
+          accelerate GitHub Advanced Security adoption.
       - role: Technical Product Manager
         time: 2024 - Present
         company: Synopsys, Inc.
